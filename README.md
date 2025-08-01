@@ -156,8 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Demo**: [https://nixspot-demo.vercel.app](https://nixspot-demo.vercel.app)
-- **Documentation**: [https://docs.nixspot.dev](https://docs.nixspot.dev)
-- **API Reference**: [https://api.nixspot.dev](https://api.nixspot.dev)
+- **Documentation**: [https://docs.nixspot.dev](https://github.com/aialchemist-org/NixSpot/README.md)
 
 ## 💬 Support
 
