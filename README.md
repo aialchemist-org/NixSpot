@@ -58,7 +58,7 @@ NixSpot is a modern, AI-powered, Web3-integrated GitHub alternative designed for
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/nixspot.git
+   git clone https://github.com/aialchemist-org/nixspot.git
    cd nixspot
    ```
 
@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Support
 
 - **Discord**: [Join our community](https://discord.gg/nixspot)
-- **Issues**: [GitHub Issues](https://github.com/your-username/nixspot/issues)
+- **Issues**: [GitHub Issues](https://github.com/aialchemist-org/nixspot/issues)
 - **Email**: support@nixspot.dev
 
 ---
